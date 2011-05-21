@@ -8,7 +8,7 @@ Group:		X11/Applications/Games
 Source0:	%{name}-0.%{snap}.tar.bz2
 # Source0-md5:	1388f4d0fa902f24c54134203ccd0337
 Source1:	http://camanis.net/tyrian/tyrian21.zip
-# Source1-md5:	2a3b206a6de25ed4b771af073f8ca904
+# Source1-md5:	c3b8400abb2d9dd45d2e3c3fb5ce1563
 URL:		http://code.google.com/p/opentyrian/
 BuildRequires:	SDL_net-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
